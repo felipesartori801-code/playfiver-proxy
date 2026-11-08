@@ -1,0 +1,13 @@
+{
+  "name": "playfiver-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "playfiver-proxy.js",
+  "scripts": {
+    "start": "node playfiver-proxy.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
